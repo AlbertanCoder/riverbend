@@ -5,6 +5,8 @@ Work in progress, October 2026.
 
 > Riverbend, its people and the "Government of Athabasca" are made up for this demonstration. It is not a real government website, and every page says so.
 
+**Live demo:** going online soon on its own server. Until then, these are real screenshots of the site as it is today.
+
 ![The Riverbend home page](screenshots/home.jpg)
 
 ## Why I'm building this
@@ -57,6 +59,20 @@ Many government websites now have an AI chat. "Ask Riverbend" answers questions 
 | Council motions recorded | 234 across 28 meetings |
 | Automatic checks, all passing | 820 |
 
+## Is there money in it?
+
+Small towns already pay for websites. Three recent examples from small towns in the United States, where council decisions are reported publicly:
+
+| Town | What council approved | Cost |
+|---|---|---|
+| Weston, Vermont | Five-year website design and hosting contract | [$1,200 a year](https://citizenportal.ai/articles/9880437/vermont/windsor-county/weston/selectboard-approves-fiveyear-town-web-contract-for-municipal-website-at-1200-per-year) |
+| Hartford, Maine | New website to replace a Weebly site | [$1,788](https://citizenportal.ai/articles/10188421/maine/oxford-county/hartford/selectboard-approves-1788-town-cloud-website-contract-to-replace-weebly-site) |
+| Mendon, Vermont | New CivicPlus website | [$5,514 the first year, then $4,664 a year](https://citizenportal.ai/articles/10785282/vermont/rutland-county/mendon/selectboard-approves-5514-civicplus-contract-to-build-new-town-website) |
+
+**What this means for Alberta.** There are 234 towns, villages and summer villages here. A website is a yearly cost these places already budget for, and Riverbend adds the resident account and the new privacy requirements on top.
+
+**What isn't proven yet.** No town has paid me. The next step is to show Riverbend to real chief administrative officers and clerks, ask what they'd pay, and get a first paid pilot. I would rather find that out early than guess.
+
 ## Security plan
 
 People are rightly worried about hackers, and about people using AI to break into systems. Town records hold personal information, so security is designed in from the start. No system is unbreakable, so the plan is layers of protection, kept up to date and checked by someone independent.
@@ -91,4 +107,4 @@ People are rightly worried about hackers, and about people using AI to break int
 ---
 
 Riverbend, its people and the Government of Athabasca are made up for this demonstration. It is not a real government website.
-Blue Sky Digital, Edmonton, Alberta. The project's source code isn't public.
+Blue Sky Digital, Edmonton, Alberta. The project's source code isn't public. More of my work: [github.com/AlbertanCoder](https://github.com/AlbertanCoder).
